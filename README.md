@@ -4,7 +4,7 @@ Hello there! I'm Tintswalo, a student who is excited about learning coding and e
 
 ## About Me
 
-I'm relatively new to coding, but I'm enthusiastic and eager to learn. Currently, I'm exploring various programming languages and trying to grasp fundamental concepts. My goal is to become proficient in Java, HTML, CSS and Javascript.
+I'm relatively new to coding, but I'm enthusiastic and eager to learn. Currently, I'm exploring various programming languages and trying to grasp fundamental concepts. My goal is to become proficient in Java, HTML, Css, Javascript and Python.
 
 ## Learning Journey
 
