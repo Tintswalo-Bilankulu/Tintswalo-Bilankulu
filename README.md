@@ -17,10 +17,10 @@
 <h3 align="left"> Learning Journey<h3>
 <h4 align="left"> As a beginner, I'm taking small steps to build my coding skills. Here are some of the resources I'm using:<h4>
 <p align="left">
-- Online tutorials
-- Coding bootcamps
-- Books on programming
-- YouTube channels and online courses
+<lu>- Online tutorials</lu>
+<lu>- Coding bootcamps</lu>
+<lu>- Books on programming</lu>
+<lu>- YouTube channels and online courses</lu>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
