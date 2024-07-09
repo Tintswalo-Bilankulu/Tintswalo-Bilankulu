@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tintswalo-bilankulu&show_icons=true&locale=en&layout=compact" alt="tintswalo-bilankulu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tintswalo-bilankulu&show_icons=true&locale=en" alt="tintswalo-bilankulu" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tintswalo-bilankulu&" alt="tintswalo-bilankulu" /></p>
 
