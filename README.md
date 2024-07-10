@@ -40,6 +40,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tintswalo-bilankulu&" alt="tintswalo-bilankulu" /></p>
 
+<p align="center">
+ <img width="1000" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
+
 Let's learn and grow together in the exciting world of coding! 🚀
 
 <!---
