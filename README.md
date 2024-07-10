@@ -32,7 +32,6 @@
 <a href="https://github.com/tintswalo-bilankulu" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=tintswalo-bilankulu&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
 <a href="https://github.com/tintswalo-bilankulu" target="_blank" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tintswalo-bilankulu&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
 
-![Alt](https://repobeats.axiom.co/api/embed/413781a079476d1eef25d9e73cff4cf6664638b4.svg "Repobeats analytics image")
 
 </br></br>
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
