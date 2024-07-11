@@ -13,6 +13,9 @@
 <p align="left">
 <a href="https://instagram.com/faith_bilas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faith_bilas" height="30" width="40" /></a>
 </p>
+<p align="left">
+<a href="www.linkedin.com/in/tintswalobilankulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meet-jain-413015265/" height="35" width="45" /></a>
+<a href="https://discord.com/channels/tintswalo_bilas" target="blank"><img align="center" src="https://github.com/Meetjain1/Meetjain1/assets/133582566/098a209a-a1d2-4350-9331-8f90203cc34d" alt="https://discordapp.com/users/meetofficial" height="45" width="45" /></a>
 
 <h3 align="left"> Learning Journey<h3>
 <h4 align="left"> As a beginner, I'm taking small steps to build my coding skills. Here are some of the resources I'm using:<h4>
