@@ -1,4 +1,4 @@
- <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture>
+ <h1 align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture></h1>
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?lines=My+name+is+Tintswalo+Faith;Welcome+To+My+profile;I+Am+a+student+from+South+Africa;"/></h1>
 <h3 align="center">I am a student who is excited about learning coding and exploring the vast world of technology. This is my GitHub profile where I'll be sharing my journey as I dive into the world of programming. I'm relatively new to coding, but I'm enthusiastic and eager to learn. Currently, I'm exploring various programming languages and trying to grasp fundamental concepts. My goal is to become proficient in Java, HTML, Css, Javascript and Python.</h3>
