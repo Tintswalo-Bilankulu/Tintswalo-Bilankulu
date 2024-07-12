@@ -30,8 +30,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Statistics ![CircleCI status](https://circleci.com/gh/CircleCI-Public/shellcheck-orb.svg "CircleCI status")
 
 <br>
-<a href="https://github.com/tintswalo-bilankulu" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=tintswalo-bilankulu&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
-<a href="https://github.com/tintswalo-bilankulu" target="_blank" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tintswalo-bilankulu&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a>
+<h1 align="center"><a href="https://github.com/tintswalo-bilankulu" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=tintswalo-bilankulu&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&alt="GitHub statistics"></a>
+<a href="https://github.com/tintswalo-bilankulu" target="_blank" target="_blank"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tintswalo-bilankulu&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab"></a></h1>
 
 ![Alt](https://repobeats.axiom.co/api/embed/8c9db3f025f256c62eefb9ce6978a9fc3f38c41c.svg "Repobeats analytics image")
 
