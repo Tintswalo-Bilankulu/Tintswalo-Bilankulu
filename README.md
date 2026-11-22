@@ -1,127 +1,252 @@
- <h1 align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture></h1>
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?lines=My+name+is+Tintswalo+Faith;I+Am+a+student+from+South+Africa;Welcome+To+My+profile!;"/></h1>
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Tintswalo Faith Bilankulu</h1>
+<!-- ANIMATED HEADER -->
 
-<h3 align="center">
-🚀 Aspiring Software Developer | Tech Explorer | Lifelong Learner
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+to+code+every+day;Exploring+Web+and+Software+Development;Building+projects+and+growing+skills;Welcome+to+my+GitHub!&center=true&width=650&height=45">
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101127,50:483163,100:A78BFA&height=220&section=header&text=Tintswalo%20Faith&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20digital%20universe&descAlignY=55&descSize=16"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=Computing+%26+Information+Systems;Exploring+Cybersecurity;Technology+Meets+Business;Drone+Technology+%26+Innovation;Curiosity+is+my+superpower" alt="Typing animation"/>
 
-<!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tintswalo-bilankulu&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
-</p>
+<br/>
 
----
+<a href="https://tintswalofaith.netlify.app/">
+  <img src="https://img.shields.io/badge/Explore_My_Portfolio-483163?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/tintswalobilankulu">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:tintswalofaith99@gmail.com">
+  <img src="https://img.shields.io/badge/Say_Hello-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 👩‍💻 About Me
+<br/><br/>
 
-I am a **student developer** with a strong curiosity for technology and problem-solving.  
-I enjoy learning by **building**, **breaking**, and **improving** things.
+<img src="https://komarev.com/ghpvc/?username=Tintswalo-Bilankulu&label=Digital+Visitors&color=483163&style=flat-square"/>
 
-💡 **Current Focus**
-- Strengthening programming fundamentals  
-- Building real-world projects  
-- Exploring web and software development  
-
-🎯 **Goal**
-> Become a confident, well-rounded developer capable of creating meaningful digital solutions.
+</div>
 
 ---
 
-## 🌱 Currently Learning
+## 🌌 A little about me
 
-- Java & Object-Oriented Programming  
-- HTML, CSS & JavaScript  
-- Python fundamentals  
-- Databases & backend concepts  
+Hey, I'm Tintswalo! 👋
 
----
+I'm a Computing Honours student from South Africa with a background in Business Systems and a curiosity for how technology, people and businesses connect.
 
-## 🧰 Languages & Tools
+I enjoy exploring ideas, understanding how things work and figuring out how technology can make them work better.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,mongodb,oracle,git,github,vscode" />
-</p>
+My interests go beyond code — from information security and business analysis to drones, emerging technologies and entrepreneurship.
 
----
+I don't have everything figured out, but that's part of the adventure.
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tintswalo-bilankulu&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=7200"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tintswalo-bilankulu&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=7200"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=tintswalo-bilankulu&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+> Exploring possibilities, connecting ideas and building with purpose.
 
 ---
 
-## 🏆 Achievements
+## 🧬 My digital DNA
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=tintswalo-bilankulu&theme=onedark&no-frame=true&row=1&column=6"
-  />
-</p>
+```yaml
+name: Tintswalo Faith Bilankulu
+location: South Africa 🇿🇦
 
-## 📈 Activity & Insights
+education:
+  current: BSc Honours in Computing - UNISA
+  completed: Bachelor of IT in Business Systems
 
-<p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/8c9db3f025f256c62eefb9ce6978a9fc3f38c41c.svg" />
-</p>
+interests:
+  - Information Systems
+  - Business Analysis
+  - Cybersecurity
+  - Enterprise Architecture
+  - Artificial Intelligence
+  - Drone Technology
+  - Entrepreneurship
 
----
+personality:
+  - Curious
+  - Analytical
+  - Creative
+  - Always learning
 
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="mailto:tintswalofaith99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tintswalobilankulu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/faith_bilas" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+mission: Bridging technology, business and innovation
+fuel: Curiosity and a little bee buzz 🐝
+```
 
 ---
 
-## ✨ Final Note
+## 🪐 My tech universe
 
-> I believe consistency beats talent when talent doesn’t work hard.  
-> Thanks for stopping by — let’s **learn, build, and grow together** 🚀
+| Universe | What interests me |
+| :--- | :--- |
+| 💻 Computing | Information systems, software and digital solutions |
+| 🔐 Cybersecurity | Information security, governance and risk |
+| 📊 Business & Technology | Business analysis, enterprise systems and digital transformation |
+| 🚁 Drone Technology | UAS operations, GIS and aerial intelligence |
+| 🤖 Emerging Technology | AI, automation and intelligent systems |
+| 🐝 Innovation | Entrepreneurship, product ideas and BEELAS |
 
-<!---
-Tintswalo-Bilankulu/Tintswalo-Bilankulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
+## 🔬 Currently exploring
+
+🎓 Completing my BSc Honours in Computing at UNISA.
+
+🔐 Researching Information Security Policy Compliance.
+
+🛠️ Building and improving personal technology projects.
+
+🚁 Exploring practical applications of drone and geospatial technologies.
+
+🐝 Developing ideas at the intersection of business, technology and innovation.
+
+---
+
+## 🛠️ My digital toolbox
+
+<div align="center">
+
+### Programming & Web Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python&theme=dark"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+
+### Development & Collaboration
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+### Other Areas
+
+![Business Analysis](https://img.shields.io/badge/Business_Analysis-483163?style=flat-square)
+![BPMN](https://img.shields.io/badge/BPMN-483163?style=flat-square)
+![Systems Analysis](https://img.shields.io/badge/Systems_Analysis-483163?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-483163?style=flat-square)
+![Research](https://img.shields.io/badge/Research-483163?style=flat-square)
+![Mission Planner](https://img.shields.io/badge/Mission_Planner-483163?style=flat-square)
+
+</div>
+
+*My toolbox is constantly evolving as I explore new technologies.*
+
+---
+
+## 🚀 Things I've built
+
+| Project | Description |
+| :--- | :--- |
+| 🌌 [Personal Portfolio](https://github.com/Tintswalo-Bilankulu/Portfolio) | My digital space showcasing my journey, projects, qualifications and interests. |
+| 💰 [CoinBliss](https://github.com/Tintswalo-Bilankulu/CoinblissPrototype) | A digital financial solution prototype exploring technology-driven innovation. |
+| 🐾 PAWS | Pets Adoption Workflow System developed during a work-integrated learning project, where I led a team of three business analysts. |
+| ☕ [Java Project](https://github.com/Tintswalo-Bilankulu/Java_POE) | An academic project demonstrating Java programming and object-oriented development. |
+
+<div align="center">
+
+**More experiments and ideas to come...** ✨
+
+</div>
+
+---
+
+## 🔍 Research corner
+
+### Information Security Policy Compliance
+
+**A systematic review of Information Security Policy Compliance: Towards a conceptual model for research and practice**
+
+My Honours research explores information security policy compliance through systematic literature review methodology and conceptual model development.
+
+Research interests:
+
+- Information Security Governance
+- Security Policy Compliance
+- Human Factors in Cybersecurity
+- Organisational Security Behaviour
+- Information Systems Research
+
+---
+
+## 🚁 Beyond the keyboard
+
+Technology doesn't always stay on the ground.
+
+Through the Inhlanyelo Hub Drone Industry Business Start-up Programme, I have obtained qualifications in:
+
+- Remote Pilot Certificate (RPC)
+- Beyond Visual Line of Sight (BVLOS)
+- UAS Maintenance Technician (UASMT)
+- Aviation Security for UAVs (AVSECUAV)
+
+I'm interested in exploring how drones, AI and geospatial technologies can support real-world challenges, from infrastructure inspection to disaster risk management.
+
+---
+
+## 🏆 Milestones unlocked
+
+- 🎓 Bachelor of Information Technology in Business Systems
+- 📚 BSc Honours in Computing — in progress
+- 🏅 Golden Key International Honour Society
+- 🤝 Class Representative for two years
+- 📋 Project leadership during Work Integrated Learning
+- 🚁 Commercial drone industry training and qualifications
+
+---
+
+## 📊 My GitHub journey
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tintswalo-Bilankulu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tintswalo-Bilankulu&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Tintswalo-Bilankulu&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🐍 Chasing contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tintswalo-Bilankulu/Tintswalo-Bilankulu/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tintswalo-Bilankulu/Tintswalo-Bilankulu/output/github-contribution-grid-snake.svg"/>
+  <img alt="My GitHub contribution snake" src="https://raw.githubusercontent.com/Tintswalo-Bilankulu/Tintswalo-Bilankulu/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 🐝 Behind the buzz
+
+When I'm not exploring technology, I'm probably:
+
+- Discovering new business ideas
+- Learning something unexpectedly interesting
+- Networking and meeting new people
+- Working on my personal projects
+- Listening to music or staying active
+
+I believe there's always something new to discover, and that good ideas can come from the most unexpected places.
+
+---
+
+<div align="center">
+
+### ✨ The journey is still being written.
+
+**Stay curious. Keep evolving. Build with purpose.**
+
+🌍 Made in South Africa | 🐝 Powered by curiosity
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101127,50:483163,100:A78BFA&height=120&section=footer"/>
+
+</div>
