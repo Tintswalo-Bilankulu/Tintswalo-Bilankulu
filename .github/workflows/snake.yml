@@ -1,0 +1,31 @@
+
+name: Generate Honey Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Tintswalo-Bilankulu
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#E5A823&color_dots=#EBEDF0,#E9D5FF,#C084FC,#9333EA,#581C87
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FFD166&color_dots=#211B32,#433463,#6D4BAA,#9C7BD3,#C6ADF5
+
+      - name: Publish animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
